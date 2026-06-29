@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Adrian 👋
 
-<!--
-**AdrianPovestca/AdrianPovestca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an operations and customer-focused professional with experience in Shopify, SQL, Excel, AI tools, and customer support.
 
-Here are some ideas to get you started:
+I'm currently pursuing remote opportunities in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Customer Support
+- Product Support
+- Data Analysis
+- Operations
+
+## Technical Skills
+
+- SQL
+- Excel
+- Google Sheets
+- Shopify
+- AI Tools
+- Documentation
+- Data Analysis
+
+## Professional Skills
+
+- Customer Support
+- Technical Troubleshooting
+- Process Improvement
+- Problem Solving
+- Communication
