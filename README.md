@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Pixel-art night scene with a flying falcon and Adrian's workstation">
+<img src="./assets/hero.gif" width="100%" alt="Animated pixel-art night scene with Adrian coding, a flying falcon and a cow with headlight eyes">
 
 <br>
 
@@ -8,15 +8,32 @@
 
 ### I BUILD THINGS ON THE INTERNET.
 
-<br>
-
 **AI · WEB · AUTOMATION · CREATIVE EXPERIMENTS**
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/adrian-povestca-262175414)
-&nbsp; · &nbsp;
-[Email](mailto:adrianpovestcagc@gmail.com)
+<a href="https://www.linkedin.com/in/adrian-povestca-262175414">LINKEDIN</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:adrianpovestcagc@gmail.com">EMAIL</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/AdrianPovestca">GITHUB</a>
+
+</div>
+
+---
+
+## THE RULE
+
+<div align="center">
+
+### SOMEONE GIVES ME AN IDEA.
+### I BUILD IT.
+
+<br>
+
+<a href="https://give-me-ideas.adrianscriptp.workers.dev/">
+  <img src="https://img.shields.io/badge/GIVE%20ME%20AN%20IDEA-20212B?style=for-the-badge&logo=github&logoColor=white" alt="Give me an idea">
+</a>
 
 </div>
 
@@ -28,31 +45,51 @@ I like taking an idea, turning it into something real, and seeing what happens.
 
 ### AI SYSTEMS
 
-**Miri**  
-AI-powered customer support with company knowledge, RAG, memory and multilingual conversations.
-
-**CompanyMind**  
-AI email automation for organizing, analyzing and handling company mail.
-
-**PlatRemo.HUB**  
-A business automation platform combining AI support and email workflows.
-
----
+- **Miri** — AI-powered customer support with company knowledge, RAG, memory and multilingual conversations.
+- **CompanyMind** — AI email automation for organizing, analyzing and handling company mail.
+- **PlatRemo.HUB** — business automation combining AI support and email workflows.
 
 ### CREATIVE EXPERIMENTS
 
-Small projects where the idea is more important than whether it should exist.
+- **Coffee Machine Failure** — an interactive coffee-machine disaster built with HTML, CSS and JavaScript.
+- **I Love You** — a tiny interactive experiment.
+- **Gut2Good SQL Analysis** — SQL/data analysis project.
 
-**Coffee Machine Failure**  
-An interactive coffee-machine disaster built with HTML, CSS and JavaScript.
+---
 
-**I Love You**  
-A tiny interactive experiment built around a simple idea.
+## PROJECTS
 
-**Give Me Ideas**  
-A place where people can send me the next stupid thing to build.
+<div align="center">
 
-<br>
+<a href="https://github.com/AdrianPovestca/Miri_customer-support">
+  <img src="https://img.shields.io/badge/MIRI-AI%20CUSTOMER%20SUPPORT-20212B?style=for-the-badge" alt="Miri AI customer support">
+</a>
+
+<a href="https://github.com/AdrianPovestca/companymind-web">
+  <img src="https://img.shields.io/badge/COMPANYMIND-AI%20EMAIL-2D4354?style=for-the-badge" alt="CompanyMind AI email">
+</a>
+
+<a href="https://github.com/AdrianPovestca/PlatRemo.HUB">
+  <img src="https://img.shields.io/badge/PLATREMO.HUB-BUSINESS%20AUTOMATION-73766A?style=for-the-badge" alt="PlatRemo HUB">
+</a>
+
+<br><br>
+
+<a href="https://github.com/AdrianPovestca/coffee-machine-failure">
+  <img src="https://img.shields.io/badge/COFFEE%20MACHINE%20FAILURE-CREATIVE%20CODE-FED7A5?style=for-the-badge&labelColor=534145" alt="Coffee Machine Failure">
+</a>
+
+<a href="https://github.com/AdrianPovestca/i-love-you">
+  <img src="https://img.shields.io/badge/I%20LOVE%20YOU-INTERACTIVE-9E6752?style=for-the-badge" alt="I Love You">
+</a>
+
+<a href="https://github.com/AdrianPovestca/gut2good-sql-analysis">
+  <img src="https://img.shields.io/badge/GUT2GOOD-SQL%20ANALYSIS-55684B?style=for-the-badge" alt="Gut2Good SQL Analysis">
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -62,30 +99,20 @@ A place where people can send me the next stupid thing to build.
 
 ---
 
-# THE RULE
+## STACK
 
-<div align="center">
+`Python` `JavaScript` `SQL` `HTML` `CSS`
 
-### SOMEONE GIVES ME AN IDEA.
-### I BUILD IT.
-
-<br>
-
-If you have a ridiculous idea worth turning into code:
-
-### [GIVE ME AN IDEA →](https://give-me-ideas.adrianscriptp.workers.dev/)
-
-</div>
+`FastAPI` `Flask` `LangChain` `ChromaDB` `Docker` `Git` `GitHub` `REST APIs` `RAG`
 
 ---
 
-## CURRENTLY BUILDING
+<div align="center">
 
-```text
-AI SYSTEMS
-     ↓
-WEB APPS
-     ↓
-AUTOMATION
-     ↓
-WEIRD INTERNET EXPERIMENTS
+### CURRENTLY BUILDING THINGS SOMEWHERE BETWEEN USEFUL AND COMPLETELY UNNECESSARY.
+
+<br>
+
+**ADRIAN POVESTCA**
+
+</div>
