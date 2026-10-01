@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Pixel-art night scene with a flying falcon and Adrian's workstation">
+<img src="./assets/hero.svg" width="100%" alt="Pixel-art night scene with a flying falcon and Adrian's workstation">
 
 <br>
 
@@ -56,7 +56,7 @@ A place where people can send me the next stupid thing to build.
 
 <div align="center">
 
-<img src="./projects.svg" width="100%" alt="Pixel-art project map">
+<img src="./assets/projects.svg" width="100%" alt="Pixel-art project map">
 
 </div>
 
@@ -82,10 +82,10 @@ If you have a ridiculous idea worth turning into code:
 ## CURRENTLY BUILDING
 
 ```text
-AI systems
-      ↓
+AI SYSTEMS
+     ↓
 WEB APPS
-      ↓
+     ↓
 AUTOMATION
-      ↓
+     ↓
 WEIRD INTERNET EXPERIMENTS
