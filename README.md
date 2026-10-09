@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="./assets/hero.gif" width="100%" alt="Animated pixel-art night scene with Adrian coding, a flying falcon and a cow with headlight eyes">
+<img src="./assets/hero.gif" width="100%" alt="Animated pixel-art night scene with Adrian coding">
 
 <br>
 
@@ -8,7 +9,7 @@
 
 ### I BUILD THINGS ON THE INTERNET.
 
-**AI · WEB · AUTOMATION · CREATIVE EXPERIMENTS**
+**AI · WEB · AUTOMATION · CREATIVE CODING**
 
 <br>
 
@@ -22,6 +23,22 @@
 
 ---
 
+<div align="center">
+
+## GOT AN IDEA?
+
+### SEND IT. I'LL TRY TO BUILD IT.
+
+Got a weird idea, a useful tool, or something that probably shouldn't exist?
+
+<a href="https://give-me-ideas.adrianscriptpov.workers.dev/">
+  <img src="https://img.shields.io/badge/SUBMIT%20YOUR%20IDEA-D9FF45?style=for-the-badge&labelColor=090909" alt="Submit your idea">
+</a>
+
+</div>
+
+---
+
 ## THE RULE
 
 <div align="center">
@@ -29,35 +46,29 @@
 ### SOMEONE GIVES ME AN IDEA.
 ### I BUILD IT.
 
-<br>
-
-<a href="https://give-me-ideas.adrianscriptp.workers.dev/">
-  <img src="https://img.shields.io/badge/GIVE%20ME%20AN%20IDEA-20212B?style=for-the-badge&logo=github&logoColor=white" alt="Give me an idea">
-</a>
-
 </div>
+
+I turn ideas into real, working projects. Sometimes useful. Sometimes ridiculous. Usually a bit of both.
 
 ---
 
-## WHAT I BUILD
-
-I like taking an idea, turning it into something real, and seeing what happens.
+## WHAT I'M BUILDING
 
 ### AI SYSTEMS
 
-- **Miri** — AI-powered customer support with company knowledge, RAG, memory and multilingual conversations.
-- **CompanyMind** — AI email automation for organizing, analyzing and handling company mail.
-- **PlatRemo.HUB** — business automation combining AI support and email workflows.
+- **[Miri](https://github.com/AdrianPovestca/Miri_customer-support)** — AI customer support with company knowledge, RAG, memory and multilingual conversations.
+- **[CompanyMind](https://github.com/AdrianPovestca/companymind-web)** — AI-powered email workflows for handling company communication.
+- **[PlatRemo.HUB](https://github.com/AdrianPovestca/PlatRemo.HUB)** — business automation connecting AI support and email workflows.
 
 ### CREATIVE EXPERIMENTS
 
-- **Coffee Machine Failure** — an interactive coffee-machine disaster built with HTML, CSS and JavaScript.
-- **I Love You** — a tiny interactive experiment.
-- **Gut2Good SQL Analysis** — SQL/data analysis project.
+- **[Coffee Machine Failure](https://github.com/AdrianPovestca/coffee-machine-failure)** — a coffee-machine disaster built with HTML, CSS and JavaScript.
+- **[I Love You](https://github.com/AdrianPovestca/i-love-you)** — a small interactive experiment.
+- **[Gut2Good SQL Analysis](https://github.com/AdrianPovestca/gut2good-sql-analysis)** — a SQL and data analysis project.
 
 ---
 
-## PROJECTS
+## SELECTED PROJECTS
 
 <div align="center">
 
